@@ -8,11 +8,15 @@ Kitabın hedef kitlesini Fen, Sosyal ve Sözel alanlarında araştırma yapan t�
 
 Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık mantık uygulamalarının bilimsel, akademik ve araştırma amaçlı tüm projelerinizde faydalı olmasını temenni ederim. Kitabın geliştirilme sürecinde gelecek baskılarında örnekler çoğaltılarak olası hata ve yanlışlıklarını giderilmesi planlanmaktadır. İlgi gösterecek olan herkese desteklerinden dolayı teşekkür ve saygılarımı iletiyorum.
 
+ISBN: 978-605-4827-98-5
+
 Öğr. Gör. Ali ÇETİNKAYA
 İstanbul, 2022
 
 alcetinkaya@gelisim.edu.tr
 
 https://alicetinkaya.site/ 
+
+https://gavsis.gelisim.edu.tr/alcetinkaya/kimlik
 
 https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ 
