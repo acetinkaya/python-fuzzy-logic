@@ -11,7 +11,7 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 ISBN: 978-605-4827-98-5
 
 Öğr. Gör. Ali ÇETİNKAYA
-İstanbul, 2022
+İstanbul, 2023
 
 alcetinkaya@gelisim.edu.tr
 
