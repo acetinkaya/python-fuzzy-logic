@@ -27,7 +27,7 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 
 ** ISBN No: 978-605-4827-98-5
 
-** Published: 2023
+** Basım Yılı / Published: 2023
 
 ** Yayınevi: İstanbul Gelişim Üniversitesi
 
