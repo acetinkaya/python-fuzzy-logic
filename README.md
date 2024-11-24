@@ -41,7 +41,7 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 
 - **APA**: Çetinkaya, A., (2023). Bulanık Mantık ve Python Uygulamaları . İstanbul: İstanbul Gelişim Üniversitesi.
 
-- **MLA**: Çetinkaya, Ali et al. “Controlling A Robotic Arm Using Hand Recognition Software”. International Journal of Engineering Technologies IJET, vol. 5, no. 2, 2019, pp. 59-63.	
+- **MLA**: Çetinkaya, ALİ. Bulanık Mantık ve Python Uygulamaları . İstanbul Gelişim Üniversitesi , 2023.
 
 --- 
 
