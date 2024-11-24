@@ -13,10 +13,11 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 
 ---
 
-## Author
+## Author Info.:
 
-- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye  
+  Istanbul Gelisim University, Istanbul Gelisim Vocational School, Electronics Technology Program, Istanbul / Turkey  
   
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
@@ -29,6 +30,8 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 ** Published: 2023
 
 ** Kitap Yayın Bilgisi: [İGÜ Yayınları İnternet Sayfası](https://iguyayinlari.gelisim.edu.tr/tr/idari-duyuru-igu-yayinlarindan-106-kitap-bulanik-mantik-ve-python-uygulamalari)
+
+** Kitap Google Scholar ve İGÜ Avesis Sayfası 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
