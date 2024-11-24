@@ -37,9 +37,9 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 
 ## How to Cite / Nasıl Referans-Alıntı Yapılır?
 
-- **IEEE**: A. Çetinkaya, O. Öztürk, and A. Okatan, “Controlling A Robotic Arm Using Hand Recognition Software”, IJET, vol. 5, no. 2, pp. 59–63, 2019.	
+- **IEEE**: A. Çetinkaya. Bulanık Mantık ve Python Uygulamaları. İstanbul: İstanbul Gelişim Üniversitesi 2023, pp.144
 
-- **APA**: Çetinkaya, A., Öztürk, O., & Okatan, A. (2019). Controlling A Robotic Arm Using Hand Recognition Software. International Journal of Engineering Technologies IJET, 5(2), 59-63.	
+- **APA**: Çetinkaya, A., (2023). Bulanık Mantık ve Python Uygulamaları . İstanbul: İstanbul Gelişim Üniversitesi.
 
 - **MLA**: Çetinkaya, Ali et al. “Controlling A Robotic Arm Using Hand Recognition Software”. International Journal of Engineering Technologies IJET, vol. 5, no. 2, 2019, pp. 59-63.	
 
