@@ -1,4 +1,6 @@
-# BULANIK MANTIK ve PYTHON UYGULAMALARI
+## BULANIK MANTIK ve PYTHON UYGULAMALARI
+
+![alternatif metin](https://github.com/acetinkaya/python-fuzzy-logic/blob/main/Ali%20%C3%87etinkaya%20Python.jpg)
 
 Gelişen ve değişen teknoloji ile cihazların kontrolü üzerindeki ihtiyaç günden güne artmaktadır. Mevcut sistemlerin kontrolünde, yazılım dilleri üzerinde geliştirilen algoritmaların önemi büyüktür. Bulanık mantık (BM) sistemlerin kontrolü hayatımızın ayrılmaz bir parçası haline gelmiştir. Bulanık mantık hakkında yabancı dillerde çok sayıda çalışma mevcuttur. Bunlar arge araştırmaları, kitaplar, ders notları, makaleler ve bildiri çalışmalarıdır. Bu yayınlar arasında günümüz programlama dillerinden olan Python programlama dili ile hazırlanmış kapsamlı bir Türkçe Bulanık mantık kaynağı yer almamaktadır. Bu kitap Python programlama dili üzerinde geliştirilmiş bulanık mantık çalışmaları konusunda Türkçe literatüre katkı sağlayacaktır.  
 
