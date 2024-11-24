@@ -1,5 +1,9 @@
 # BULANIK MANTIK ve PYTHON UYGULAMALARI
 
+Kitap Yayın Bilgisi: [İGÜ Yayınları İnternet Sayfası](https://iguyayinlari.gelisim.edu.tr/tr/idari-duyuru-igu-yayinlarindan-106-kitap-bulanik-mantik-ve-python-uygulamalari)
+
+
+
 ## Author
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
