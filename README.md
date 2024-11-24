@@ -26,18 +26,9 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 
 ** ISBN No: 978-605-4827-98-5
 
-** Published: March 24, 2023
+** Published: 2023
 
 ** Kitap Yayın Bilgisi: [İGÜ Yayınları İnternet Sayfası](https://iguyayinlari.gelisim.edu.tr/tr/idari-duyuru-igu-yayinlarindan-106-kitap-bulanik-mantik-ve-python-uygulamalari)
-
-
-
-
-
-
-
-
-https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -50,7 +41,7 @@ Katkıda Bulunma:
 Lisans: 
 [MIT Lisansı](http://mit-license.org/) altında yayımlandı
 
-Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.com/acetinkaya) - 2024
+Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.com/acetinkaya) - 2023
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -63,4 +54,4 @@ Pull requests are welcome. For major changes, please open a question-and-answer 
 License:
 Released under the [MIT License](http://mit-license.org/)
 
-Authored and Maintained by [Lect. Ali Cetinkaya (MSc.)](https://github.com/acetinkaya) - 2024
+Authored and Maintained by [Lect. Ali Cetinkaya (MSc.)](https://github.com/acetinkaya) - 2023
