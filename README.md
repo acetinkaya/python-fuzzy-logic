@@ -33,7 +33,17 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 
 ** Kitap Google Scholar ve İGÜ Avesis Sayfası 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+---
+
+## How to Cite / Nasıl Referans-Alıntı Yapılır?
+
+- **IEEE**: A. Çetinkaya, O. Öztürk, and A. Okatan, “Controlling A Robotic Arm Using Hand Recognition Software”, IJET, vol. 5, no. 2, pp. 59–63, 2019.	
+
+- **APA**: Çetinkaya, A., Öztürk, O., & Okatan, A. (2019). Controlling A Robotic Arm Using Hand Recognition Software. International Journal of Engineering Technologies IJET, 5(2), 59-63.	
+
+- **MLA**: Çetinkaya, Ali et al. “Controlling A Robotic Arm Using Hand Recognition Software”. International Journal of Engineering Technologies IJET, vol. 5, no. 2, 2019, pp. 59-63.	
+
+--- 
 
 Proje Durumu:
 İlgili paylaşımlar ve Python programlama dilinde yazılmış yazılım kodlarına sürüm güncellemeleri yaptıkça bu paylaşımları güncelleyeceğiz. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. Bilgi paylaşıldıkça büyür ve gelişir.
