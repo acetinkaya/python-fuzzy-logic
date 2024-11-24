@@ -29,6 +29,8 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 
 ** Published: 2023
 
+** Yayınevi: İstanbul Gelişim Üniversitesi
+
 ** Kitap Yayın Bilgisi: [İGÜ Yayınları İnternet Sayfası](https://iguyayinlari.gelisim.edu.tr/tr/idari-duyuru-igu-yayinlarindan-106-kitap-bulanik-mantik-ve-python-uygulamalari)
 
 ** Kitap [Google Scholar](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:9ZlFYXVOiuMC) ve [İGÜ Avesis Sayfası](https://avesis.gelisim.edu.tr/yayin/2d914227-34cf-492c-a9cd-86e10745f0b5/bulanik-mantik-ve-python-uygulamalari) 
