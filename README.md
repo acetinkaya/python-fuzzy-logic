@@ -33,11 +33,9 @@ Bu kitabın hazırlanmasında kullanılan Python programlama dili ile bulanık m
 
 
 
-alcetinkaya@gelisim.edu.tr
 
-https://alicetinkaya.site/ 
 
-https://gavsis.gelisim.edu.tr/alcetinkaya/kimlik
+
 
 https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ 
 
